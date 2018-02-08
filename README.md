@@ -1,5 +1,7 @@
 # Serverless Containers on Fargate
 
+Slides of a talk about running serverless containers in Amazon Fargate
+
 ## slides
 For the slides we use the [RevealJS](https://github.com/hakimel/reveal.js/) framework.
 - See index.html for the slide show composition
